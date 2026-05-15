@@ -217,3 +217,11 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
  [Chandra Sekhar](https://github.com/ArvetiChandraSekhar)
 
+
+ # Feature that are impacting customer chrun
+
+ <img width="1413" height="1081" alt="image" src="https://github.com/user-attachments/assets/f8166098-74fe-48f6-bdf1-00aadd8613d5" />
+ <img width="1408" height="1121" alt="image" src="https://github.com/user-attachments/assets/2d4a5610-69b0-4863-9664-a128457e1c35" />
+
+
+
